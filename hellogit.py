@@ -1,4 +1,4 @@
-print("New Hello Git")
+print("New Hello Git with ")
 
 # git init Para iniciar
 # git add Agrega el contenido del archivo al índice
@@ -11,3 +11,4 @@ print("New Hello Git")
 # git reset Restablecer HEAD actual al estado especificado
 # git alias: git config --global alias.tree "git log --graph --decorate --all --oneline"
 # Fichero gitignore: especifica archivos intencionalmente sin seguimiento para ignorar
+# git diff: muestra los cambios entre confirmaciones, confirmación y árbol de trabajo, etc.
